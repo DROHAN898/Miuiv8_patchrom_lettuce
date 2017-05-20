@@ -33,7 +33,6 @@ private-phone-priv-apps := \
 	FusedLocation \
 	IMSEnabler \
 	InputDevices \
-	ProximityCalibrate \
 	ProxyHandler \
 	qcrilmsgtunnel \
 	Screencast \
