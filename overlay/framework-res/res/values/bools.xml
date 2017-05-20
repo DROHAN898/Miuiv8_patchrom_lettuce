@@ -69,14 +69,14 @@
     <bool name="config_suspendWhenScreenOffDueToProximity">false</bool>
     <bool name="config_batterySdCardAccessibility">false</bool>
     <bool name="config_use_strict_phone_number_comparation">false</bool>
-    <bool name="config_intrusiveNotificationLed">true</bool>
-    <bool name="config_multiColorNotificationLed">true</bool>
-    <bool name="config_intrusiveBatteryLed">true</bool>
+    <bool name="config_intrusiveNotificationLed">false</bool>
+    <bool name="config_multiColorNotificationLed">false</bool>
+    <bool name="config_intrusiveBatteryLed">false</bool>
     <bool name="config_multiColorBatteryLed">false</bool>
     <bool name="config_ledCanPulse">true</bool>
     <bool name="config_disableMenuKeyInLockScreen">false</bool>
     <bool name="config_enableLockBeforeUnlockScreen">false</bool>
-    <bool name="config_enableLockScreenRotation">false</bool>
+    <bool name="config_enableLockScreenRotation">true</bool>
     <bool name="config_enableLockScreenTranslucentDecor">true</bool>
     <bool name="config_enableTranslucentDecor">true</bool>
     <bool name="config_hotswapCapable">false</bool>
@@ -113,7 +113,7 @@
     <bool name="config_mms_content_disposition_support">true</bool>
     <bool name="config_alwaysUseCdmaRssi">false</bool>
     <bool name="config_duplicate_port_omadm_wappush">false</bool>
-    <bool name="config_showNavigationBar">false</bool>
+    <bool name="config_showNavigationBar">true</bool>
     <bool name="config_actionMenuItemAllCaps">true</bool>
     <bool name="config_allowActionMenuItemTextWithIcon">false</bool>
     <bool name="config_wimaxEnabled">false</bool>
