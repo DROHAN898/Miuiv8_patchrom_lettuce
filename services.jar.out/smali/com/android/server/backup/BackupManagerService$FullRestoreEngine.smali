@@ -891,7 +891,7 @@
 
     .line 5193
     .local v7, "didRead":I
-    if-ltz v7, :cond_2
+    if-ltz v7, :cond_0
 
     move-object/from16 v0, p0
 
