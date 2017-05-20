@@ -13800,7 +13800,7 @@
     .line 3659
     const/16 v8, 0x7531
 
-    invoke-static {v4, v8}, Lcom/android/server/am/ActivityStackHook;->writeAmFinishActivityEventLog(Lcom/android/server/am/ActivityRecord;Ljava/lang/String;)V
+    invoke-static {v4, v10}, Lcom/android/server/am/ActivityStackHook;->writeAmFinishActivityEventLog(Lcom/android/server/am/ActivityRecord;Ljava/lang/String;)V
 
     .line 3663
     iget-object v7, v4, Lcom/android/server/am/ActivityRecord;->state:Lcom/android/server/am/ActivityStack$ActivityState;
