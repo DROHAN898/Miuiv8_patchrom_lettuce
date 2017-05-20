@@ -38,6 +38,5 @@ private-phone-priv-apps := \
 	Screencast \
 	SharedStorageBackup \
 	Shell \
-	Snap \
 	StatementService 
 	
